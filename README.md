@@ -2,11 +2,12 @@
 Springboot + REACT
 
 ![](https://komarev.com/ghpvc/?username=MedetHasanUgurlu)
-
-![readme](./f/src/Utility/Ekran görüntüsü_20221121_130123.png)
+![plot](./f/src/Utility/Ekran görüntüsü_20221121_130123.png)
+![readme]()
 
 # Ecodation Java Full Stack Developer 
 * [GitHub](https://github.com/MedetHasanUgurlu/)
+* 
 * 
 ### Gereksinimler
 Java 18
