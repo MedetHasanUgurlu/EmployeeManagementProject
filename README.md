@@ -3,7 +3,7 @@ Springboot + REACT
 
 ![](https://komarev.com/ghpvc/?username=MedetHasanUgurlu)
 
-![readme](./picture/readme.jpg)
+![readme](./f/src/Utility/Ekran görüntüsü_20221121_130123.png)
 
 # Ecodation Java Full Stack Developer 
 * [GitHub](https://github.com/MedetHasanUgurlu/)
