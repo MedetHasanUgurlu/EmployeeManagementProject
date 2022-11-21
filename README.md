@@ -2,13 +2,12 @@
 Springboot + REACT
 
 ![](https://komarev.com/ghpvc/?username=MedetHasanUgurlu)
-![plot](./f/src/Utility/Ekran görüntüsü_20221121_130123.png)
-![readme]()
+
+<img width="938" alt="Ekran görüntüsü 2022-11-21 130126" src="https://user-images.githubusercontent.com/77449083/203025876-0e498775-318e-48f0-9c54-9b5f69de5f94.png">
 
 # Ecodation Java Full Stack Developer 
 * [GitHub](https://github.com/MedetHasanUgurlu/)
-* 
-* 
+
 ### Gereksinimler
 Java 18
 intellij idea Ultimate 
@@ -54,7 +53,6 @@ Extensisons
 
 ## BackEnd
 * javase
-* jdbc crud native
 * hibernate
 * spring core
 * spring mvc
@@ -65,14 +63,12 @@ Extensisons
 ---
 
 ## Libraries
-Thymeleaf
 Lombok
 Validation
 
 ## Database
-H2 Database
 Mysql
-Postgresql
+
 
 ---
 ## dependency
